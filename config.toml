@@ -1,0 +1,65 @@
+baseurl = "https://vdougherty.github.io/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/post`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+  # Enable to show reading time in minutes for posts
+  showReadingTime = true
+
+[languages]
+  [languages.en]
+    title = "Vee Dougherty"
+    subtitle = ""
+    keywords = "music, art, design, graphics, web developer, musician"
+    copyright = ""
+    menuMore = "Menu"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "Vee Dougherty"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "art"
+        name = "Vision"
+        url = "/vision"
+      [[languages.en.menu.main]]
+        identifier = "music"
+        name = "Sound"
+        url = "/sound"
+      [[languages.en.menu.main]]
+        identifier = "interwebs"
+        name = "Code"
+        url = "/code"
+
+
+        
+
+
+
+
+
+
