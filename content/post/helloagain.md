@@ -5,7 +5,7 @@ draft: false
 cover: ""
 coverAlt: ""
 coverCaption: ""
-description: "Apologies for the prolonged absence, but the blog is back and running after a year of basically being on the back burner. Suffice to say ..."
+description: "Apologies for the prolonged absence, but the blog is back and running after a year of basically being on the back burner. The unfortunate thing 	..."
 ---
 
 Apologies for the prolonged absence, but the blog is back and running after a year of basically being on the back burner. The unfortunate thing is that the last backup was from January of 2023, and in my hamfisted attempt to get my blog up and runnings, I accidentally deleted my local repo, except for the backup which was then used recently to resurrect the current blog. Lesson learned. 
