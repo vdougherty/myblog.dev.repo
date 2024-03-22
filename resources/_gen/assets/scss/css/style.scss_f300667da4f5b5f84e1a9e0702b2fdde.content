@@ -1,9 +1,9 @@
 @charset "UTF-8";
 body.light-theme, :root {
   /* light theme color */
-  --background: #fff;
+  --background: #eeeeee;
   --background-secondary: #eaeaea;
-  --header: #fafafa;
+  --header: #e8e8e8;
   --color: #222;
   --color-secondary: #999;
   --border-color: #dcdcdc;
@@ -23,9 +23,9 @@ body.dark-theme {
 @media (prefers-color-scheme: light) {
   body:not(.dark-theme) {
     /* light theme color */
-    --background: #fff;
+    --background: #eeeeee;
     --background-secondary: #eaeaea;
-    --header: #fafafa;
+    --header: #e8e8e8;
     --color: #222;
     --color-secondary: #999;
     --border-color: #dcdcdc; } }
@@ -237,12 +237,13 @@ a.read-more:active {
     font-size: 1.125rem; }
   .logo__cursor {
     display: inline-block;
-    width: 10px;
+    /*width: 10px;
     height: 10px;
-    background: #6aa84f;
-    margin-left: 8px;
+    background: #6aa84f;*/
+    margin-top: 4px;
+    margin-left: 4px;
     border-radius: 1px;
-    animation: cursor 2s infinite; }
+    animation: cursor 2s 3; }
 
 @keyframes cursor {
   0% {
