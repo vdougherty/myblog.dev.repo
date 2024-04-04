@@ -55,9 +55,9 @@ paginate = 5
         name = "Code"
         url = "/code"
 
-[services]
-  [services.disqus]
-    shortname = "https-vdougherty-github-io-5"
+#[services]
+  #[services.disqus]
+    #shortname = "https-vdougherty-github-io-5"
 
 
 
