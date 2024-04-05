@@ -55,9 +55,12 @@ Places to learn more:
 [https://docs.chrultrabook.com/](https://docs.chrultrabook.com/)  
 
 
--- E’nuf said, Love and Rockets
+-- E’nuf said, Love and Rockets  
 
-{{< chat cactus-comments >}}
+
+#### Leave a comment:  
+
+{{< chat veeroom >}}
 
 
 
