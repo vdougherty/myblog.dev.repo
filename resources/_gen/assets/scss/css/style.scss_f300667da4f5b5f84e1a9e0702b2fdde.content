@@ -739,7 +739,7 @@ h4:hover a {
           margin: 0; } }
     @media (max-width: 900px) {
       .footer .copyright {
-        flex-direction: column;
+        flex-direction: row;
         margin-top: 10px; } }
 .terms {
   width: 100%;
